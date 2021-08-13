@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "5/fveDgRxOSYJC56FiVCUh3cXJjx1qtZbv7NtKsabTMgiJmnSGbuCW2XAw7HKzjG6TgYtI561PJ1lZ+PH3JVaw==",
+  "success": true,
+  "projectFilePath": "/home/ricardo/Desktop/Estudos_dotnet/estudo_rabbitMQ_dotnet_csharp/Receive/Receive.csproj",
+  "expectedPackageFiles": [
+    "/home/ricardo/.nuget/packages/rabbitmq.client/6.2.2/rabbitmq.client.6.2.2.nupkg.sha512",
+    "/home/ricardo/.nuget/packages/system.memory/4.5.4/system.memory.4.5.4.nupkg.sha512",
+    "/home/ricardo/.nuget/packages/system.threading.channels/4.7.1/system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}
