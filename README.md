@@ -1,5 +1,5 @@
 # rabbitMQ
-A sender and a receiver tha post and read from a RabbitMQ queue
+A sender and a receiver that post and read from a RabbitMQ queue
 
 Link : https://www.rabbitmq.com/tutorials/tutorial-one-dotnet.html
 
